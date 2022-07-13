@@ -1,0 +1,13 @@
+package graphics;
+
+/**
+ *
+ * @author Acer
+ */
+public class Square {
+    public void area(double a)
+    {
+        System.out.println("AREA of square:"+(4*a));
+        
+    }
+}

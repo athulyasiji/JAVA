@@ -1,0 +1,14 @@
+package graphics;
+
+/**
+ *
+ * @author Acer
+ */
+public class Circle {
+    public void area(double r)
+    {
+        System.out.println("Area of circle:"+3.14*(r*r));
+        
+    }
+    
+}
